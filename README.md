@@ -1,4 +1,4 @@
-# Car_Rental_System_07
+# Car Rental System
 This repository contains my self project on developing a Car Rental System.
 
 ## Project Structure
